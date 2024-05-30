@@ -1,0 +1,30 @@
+.user-profile {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .user-profile img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 16px;
+  }
+  
+  .user-profile h2 {
+    margin: 8px 0;
+  }
+  
+  .user-profile input {
+    margin: 8px 0;
+    padding: 4px;
+    width: calc(100% - 16px);
+  }
+  
+  .user-profile button {
+    margin-top: 16px;
+    padding: 8px 16px;
+  }
